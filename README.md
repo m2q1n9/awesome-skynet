@@ -17,7 +17,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### sproto
 
--	[sproto](https://github.com/cloudwu/sproto) - A protocol library like google protobuf, but simple and fast.
+-	[sproto](https://github.com/cloudwu/sproto) - A protocol like google protobuf, but simple and fast.
+-	[sproto-Csharp](https://github.com/lvzixun/sproto-Csharp) - A c# implementation of sproto.
+-	[sproto_dump](https://github.com/lvzixun/sproto_dump) - Parse sproto file to binary or c# file.
+-	[sproto-cs](https://github.com/jintiao/sproto-cs) - Another c# implementation of sproto.
+-	[sproto-u3d](https://github.com/jintiao/sproto-u3d) - Example showing how to use sproto-cs in unity3d.
+-	[vim_sproto](https://github.com/spin6lock/vim_sproto) - Vim syntax highlight.
+-	[sublime-sproto-syntax](https://github.com/lvzixun/sublime-sproto-syntax) - Sublime syntax highlight.
+-	[atom-sproto-syntax](https://github.com/m2q1n9/atom-sproto-syntax) - Atom syntax highlight.
+-	[sproto-mode](https://github.com/m2q1n9/sproto-mode) - Emacs syntax highlight.
 
 ### lua
 
