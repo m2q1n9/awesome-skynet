@@ -17,6 +17,14 @@ Resources
 ### skynet
 
 -	[skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework.
+-	[skynet-design](http://blog.codingnow.com/2012/09/the_design_of_skynet.html) - The design of skynet.
+-	[skynet-evolution](http://blog.codingnow.com/eo/skynet) - Good skynet design articles.
+-	[skynet-uses](https://github.com/cloudwu/skynet/wiki/Uses) - Projects build on skynet.
+-	[skynet-wiki](https://github.com/cloudwu/skynet/wiki) - Welcome to the skynet wiki.
+-	[skynet-book](http://forthxu.github.io/talkbox) - A good skynet book.
+-	[skynet-research](http://forthxu.com/blog/skynet.html) - Another good skynet resource list.
+-	[skynet-analysis](http://blog.csdn.net/xiarendeniao/article/details/38613161) - A good skynet analysis article.
+-	[skynet-mingw](https://github.com/dpull/skynet-mingw) - A good skynet windows fork.
 -	[battlearena](https://github.com/cloudwu/battlearena) - A good skynet demo.
 -	[some-mmorpg](https://github.com/jintiao/some-mmorpg) - Another good skynet demo.
 -	[quick](https://github.com/charleeli/quick) - Another good skynet demo.
@@ -27,7 +35,7 @@ Resources
 -	[sproto-Csharp](https://github.com/lvzixun/sproto-Csharp) - A c# implementation of sproto.
 -	[sproto_dump](https://github.com/lvzixun/sproto_dump) - Parse sproto file to binary or c# file.
 -	[sproto-cs](https://github.com/jintiao/sproto-cs) - Another c# implementation of sproto.
--	[sproto-u3d](https://github.com/jintiao/sproto-u3d) - Example showing how to use sproto-cs in unity3d.
+-	[sproto-u3d](https://github.com/jintiao/sproto-u3d) - Example to use sproto-cs in unity3d.
 -	[vim_sproto](https://github.com/spin6lock/vim_sproto) - Vim syntax highlight.
 -	[sublime-sproto-syntax](https://github.com/lvzixun/sublime-sproto-syntax) - Sublime syntax highlight.
 -	[atom-sproto-syntax](https://github.com/m2q1n9/atom-sproto-syntax) - Atom syntax highlight.
