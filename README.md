@@ -21,13 +21,12 @@ Resources
 -	[skynet-evolution](http://blog.codingnow.com/eo/skynet) - Good skynet design articles.
 -	[skynet-uses](https://github.com/cloudwu/skynet/wiki/Uses) - Projects build on skynet.
 -	[skynet-wiki](https://github.com/cloudwu/skynet/wiki) - Welcome to the skynet wiki.
--	[skynet-book](http://forthxu.github.io/talkbox) - A good skynet book.
 -	[skynet-research](http://forthxu.com/blog/skynet.html) - Another good skynet resource list.
 -	[skynet-analysis](http://blog.csdn.net/xiarendeniao/article/details/38613161) - A good skynet analysis article.
 -	[skynet-mingw](https://github.com/dpull/skynet-mingw) - A good skynet windows fork.
--	[battlearena](https://github.com/cloudwu/battlearena) - A good skynet demo.
+-	[battlearena](https://github.com/cloudwu/battlearena) - A simple skynet demo.
+-	[quick](https://github.com/charleeli/quick) - A good skynet demo.
 -	[some-mmorpg](https://github.com/jintiao/some-mmorpg) - Another good skynet demo.
--	[quick](https://github.com/charleeli/quick) - Another good skynet demo.
 
 ### sproto
 
