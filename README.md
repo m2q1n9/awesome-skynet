@@ -53,6 +53,7 @@ Resources
 -	[lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
 -	[json](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua.
 -	[serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer.
+-	[luafilesystem](https://github.com/keplerproject/luafilesystem) - Lua file system library.
 -	[LPeg](http://www.inf.puc-rio.br/~roberto/lpeg) - A new pattern-matching library for Lua.
 -	[PegDebug](https://github.com/pkulchenko/PegDebug) - Trace debugger for LPeg rules and captures.
 -	[typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua.
