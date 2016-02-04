@@ -43,12 +43,11 @@ Resources
 
 ### lua
 
--	[lua](http://www.lua.org) - The Lua Programming Language.
 -	[lua-docs](http://www.lua.org/docs.html) - Lua Documentation.
--	[lua-start](http://www.lua.org/start.html) - Lua Getting started.
 -	[LuaStyleGuide](http://lua-users.org/wiki/LuaStyleGuide) - Lua Style Guide.
 -	[lua-style-guide](https://github.com/Olivine-Labs/lua-style-guide) - Another Lua Style Guide.
 -	[luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+-	[argparse](https://github.com/mpeterv/argparse) - A feature-rich command line parser for Lua.
 -	[luassert](https://github.com/Olivine-Labs/luassert) - Assertion library for Lua.
 -	[busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 -	[lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
