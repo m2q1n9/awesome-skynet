@@ -47,13 +47,14 @@ Resources
 -	[LuaStyleGuide](http://lua-users.org/wiki/LuaStyleGuide) - Lua Style Guide.
 -	[lua-style-guide](https://github.com/Olivine-Labs/lua-style-guide) - Another Lua Style Guide.
 -	[luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
--	[argparse](https://github.com/mpeterv/argparse) - A feature-rich command line parser for Lua.
 -	[luassert](https://github.com/Olivine-Labs/luassert) - Assertion library for Lua.
 -	[busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
--	[lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
+-	[argparse](https://github.com/mpeterv/argparse) - A feature-rich command line parser for Lua.
 -	[serpent](https://github.com/pkulchenko/serpent) - Lua serializer and pretty printer.
+-	[lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
 -	[luafilesystem](https://github.com/keplerproject/luafilesystem) - Lua file system library.
 -	[lua-cjson](https://github.com/cloudwu/lua-cjson) - A fast JSON encoding/parsing module for Lua.
+-	[lua-snapshot](https://github.com/cloudwu/lua-snapshot) - Make a snapshot for lua state to detect memory leaks.
 -	[LPeg](http://www.inf.puc-rio.br/~roberto/lpeg) - A new pattern-matching library for Lua.
 -	[PegDebug](https://github.com/pkulchenko/PegDebug) - Trace debugger for LPeg rules and captures.
 -	[typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua.
