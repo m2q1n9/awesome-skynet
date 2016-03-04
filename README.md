@@ -54,6 +54,7 @@ Resources
 -	[lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev.
 -	[luafilesystem](https://github.com/keplerproject/luafilesystem) - Lua file system library.
 -	[lua-cjson](https://github.com/cloudwu/lua-cjson) - A fast JSON encoding/parsing module for Lua.
+-	[lua-zset](https://github.com/xjdrew/lua-zset) - Lua data structure same as redis sorted set.
 -	[lua-snapshot](https://github.com/cloudwu/lua-snapshot) - Make a snapshot for lua state to detect memory leaks.
 -	[LPeg](http://www.inf.puc-rio.br/~roberto/lpeg) - A new pattern-matching library for Lua.
 -	[PegDebug](https://github.com/pkulchenko/PegDebug) - Trace debugger for LPeg rules and captures.
